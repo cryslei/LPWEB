@@ -27,7 +27,7 @@ export class ControlerService {
   lista = [];
   listaPublicada = [];
   id = 0;
-  view = 0;
+  
   noticia = null;
   constructor() { }
 
